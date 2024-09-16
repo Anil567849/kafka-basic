@@ -1,4 +1,7 @@
 # Kafka
+
+![image](https://github.com/user-attachments/assets/1c256b4d-6565-4fe9-80ab-82e319dc8653)
+
 Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_bd9Zo)
 
 ## Prerequisite
