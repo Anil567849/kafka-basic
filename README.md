@@ -11,7 +11,7 @@
 
 ![3](https://github.com/user-attachments/assets/f2a8354c-4042-41e9-8ce4-8fc5efd67931)
 
-Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_bd9Zo)
+## Self Balancing
 
 ![4](https://github.com/user-attachments/assets/74790b60-9479-4218-9e94-837a15683f4c)
 
@@ -22,6 +22,9 @@ Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_
 
 ![6](https://github.com/user-attachments/assets/d92b5e00-36e6-4291-86a9-c6df06c94dec)
 
+
+## Video Link
+Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_bd9Zo)
 
 ## Prerequisite
 - Knowledge
