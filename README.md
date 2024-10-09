@@ -2,7 +2,26 @@
 
 ![image](https://github.com/user-attachments/assets/1c256b4d-6565-4fe9-80ab-82e319dc8653)
 
+
+## Key Concepts
+
+![1](https://github.com/user-attachments/assets/19a9b3b5-592c-4cad-b946-c7f5845770b4)
+
+![2](https://github.com/user-attachments/assets/1cca7090-b622-4676-96fa-2010251682d5)
+
+![3](https://github.com/user-attachments/assets/f2a8354c-4042-41e9-8ce4-8fc5efd67931)
+
 Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_bd9Zo)
+
+![4](https://github.com/user-attachments/assets/74790b60-9479-4218-9e94-837a15683f4c)
+
+
+## Pub Sub and Queue
+
+![5](https://github.com/user-attachments/assets/377a1d51-7b3f-4640-ad8f-f73f5d82ddc1)
+
+![6](https://github.com/user-attachments/assets/d92b5e00-36e6-4291-86a9-c6df06c94dec)
+
 
 ## Prerequisite
 - Knowledge
